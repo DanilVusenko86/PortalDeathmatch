@@ -1,4 +1,4 @@
-![Logo](logo.jpg)<br>
+![Logo](logo.png)<br>
 Deathmatch mode for Portal 1
 
 ## Features
