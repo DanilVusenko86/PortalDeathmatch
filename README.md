@@ -8,7 +8,7 @@ Deathmatch mode for Portal 1
 - Returned Server Browser
 
 ## Installation
-Download and extract archive to Portal root folder
+Download and extract archive to Portal root folder<br>
 Add Launch Parameters:
 ```Command
 -console -nobackground +exec portal_deathmatch 
@@ -17,7 +17,7 @@ Open Portal and enter:
 ```Command
   portaldm
 ```
-Then enter options to start server
+Then enter options to start server.<br>
 To connect use VPN like (Radmin or Hamachi)
 
 ## Keys 
