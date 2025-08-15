@@ -12,7 +12,7 @@ Deathmatch mode for Portal 1
 Download and extract archive to Portal root folder<br>
 Add Launch Parameters:
 ```Command
--console -nobackground +exec portal_deathmatch 
+-nobackground +exec portal_deathmatch 
 ```
 To connect use VPN like (Radmin or Hamachi)
 
