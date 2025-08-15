@@ -7,6 +7,7 @@ Deathmatch mode for Portal 1
 - Chat and Voice chat
 - Returned Server Browser
 - Custom Menus
+- Sourcemod/Metamod support
 
 ## Installation
 Download and extract archive to Portal root folder<br>
