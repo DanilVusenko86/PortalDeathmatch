@@ -10,12 +10,13 @@ Deathmatch mode for Portal 1
 - Sourcemod/Metamod support
 
 ## Installation
-Download and extract archive to Portal root folder<br>
-Add Launch Parameters:
+- Download and extract archive to Portal main folder (you can open Portal folder if you press button "view installed files" on steam)<br>
+- Add Launch Parameters:
 ```Command
 -nobackground +exec portal_deathmatch 
 ```
-To connect use VPN like (Radmin or Hamachi)
+- Download Hamachi or Radmin VPN to make a lan connection
+- Open lan tab in Server browser to view all lan servers
 
 ## Disable Portal:DM
 Its easy to disable Portal:DM just delete Launch Parameters, delete portaldm folder from custom folder and unbind to standard all keys in settings 
