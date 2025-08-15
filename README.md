@@ -20,6 +20,9 @@ Open Portal and enter:
 Then enter options to start server.<br>
 To connect use VPN like (Radmin or Hamachi)
 
+## Disable Portal:DM
+Its easy to disable Portal:DM just delete Launch Parameters and unbind to standard all keys in settings 
+
 ## Keys 
 - C   - spawn turrets
 - P   - spawn cubes
