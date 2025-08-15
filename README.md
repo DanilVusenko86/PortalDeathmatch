@@ -16,7 +16,7 @@ Deathmatch mode for Portal 1
 -nobackground +exec portal_deathmatch 
 ```
 - Download Hamachi or Radmin VPN to make a lan connection
-- Open lan tab in Server browser to view all lan servers
+- Open lan tab in Server browser in Portal to view all lan servers
 
 ## Disable Portal:DM
 Its easy to disable Portal:DM just delete Launch Parameters, delete portaldm folder from custom folder and unbind to standard all keys in settings 
@@ -30,7 +30,6 @@ P.s: you can open Portal folder if you press button "view installed files" on st
 - T   - chat
 - Tab - tablist (under dev)
 - X   - voice chat
-- F   - flashlight
 
 ## Developers
 DanilVusenko
