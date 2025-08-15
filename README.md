@@ -3,9 +3,10 @@ Deathmatch mode for Portal 1
 
 ## Features
 - Online (lan)
-- Cube/Turrets spawn
+- Cube spawn
 - Chat and Voice chat
 - Returned Server Browser
+- Custom Menus
 
 ## Installation
 Download and extract archive to Portal root folder<br>
@@ -13,23 +14,15 @@ Add Launch Parameters:
 ```Command
 -console -nobackground +exec portal_deathmatch 
 ```
-Open Portal and enter:
-```Command
-  portaldm
-```
-Then enter options to start server.<br>
 To connect use VPN like (Radmin or Hamachi)
 
 ## Disable Portal:DM
-Its easy to disable Portal:DM just delete Launch Parameters and unbind to standard all keys in settings 
+Its easy to disable Portal:DM just delete Launch Parameters, delete portaldm folder from custom folder and unbind to standard all keys in settings 
 
 ## Keys 
-- C   - spawn turrets
 - P   - spawn cubes
-- R   - destroy all portals
 - T   - chat
 - Tab - tablist (under dev)
-- I   - gives start weapons
 - X   - voice chat
 - F   - flashlight
 
