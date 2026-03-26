@@ -1,5 +1,5 @@
 <img src="img/logo.png" width="500px" aligin=center><br>
-Deathmatch mode for Portal 1
+Deathmatch mode for Portal 1 ARCHIVE
 
 ## Features
 - Online (lan)
